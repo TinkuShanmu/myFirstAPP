@@ -1,0 +1,15 @@
+{
+  "name": "myFirstAPP",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
